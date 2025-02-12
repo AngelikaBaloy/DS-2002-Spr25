@@ -1,5 +1,5 @@
-# Lab 3 Scripts
-#!/Library/Frameworks/Python.framework/Versions/3.13/bin/python3
+# Lab 3 Scripts   
+#!/Users/angelikabaloy/DS-2002-Spr25/.venv/bin/python3
 
 import os
 import json
